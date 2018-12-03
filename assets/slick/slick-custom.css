@@ -1,0 +1,52 @@
+.slick-center .slide-h3 {
+  color: #FFF;
+}
+
+.slider {
+  margin: 20px auto;
+  text-align: center;
+}
+
+.slick-slide .slide-h3 {
+  background: blue;
+}
+
+.slick-center .slide-h3 {
+  background: red;
+}
+
+.slide-h3 {
+  margin: 10% 0 10% 0;
+  padding: 40% 20%;
+  background: red;
+}
+
+.slider div {
+  margin-right: 5px;
+}
+
+.slick-slide {
+  opacity: .3;
+}
+
+.slick-center {
+  display: block;
+  max-width: 10% !important;
+  max-height: 20% !important;
+  opacity: 1;
+}
+
+.single-item .slick-slide {
+  opacity: 1;
+}
+
+.single-item img {
+  text-align: center;
+  float: none;
+  margin: 0 auto;
+  opacity: 1;
+}
+
+.single-item img:hover {
+  opacity: .90;
+}
